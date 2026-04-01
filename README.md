@@ -1,4 +1,4 @@
-# Olá, mundo! Meu nome é Carlos Patrick Oliveira Craveiro e sou analista full stack
+# Olá, mundo! Meu nome é Carlos Patrick Oliveira Craveiro e sou analista de sistemas full stack
 
 <div>
   
